@@ -1,0 +1,1 @@
+window._baseURL = 'https://www.fuckbug.xyz/imageapp';
