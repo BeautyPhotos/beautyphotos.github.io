@@ -1,1 +1,1 @@
-window._baseURL = 'http://118.31.21.11/imageapp';
+window._baseURL = 'https://www.fuckbug.xyz/imageapp';
